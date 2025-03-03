@@ -1,0 +1,12 @@
+C:\Users\Lenovo\Desktop\Inventory-master\InventoryManagmentSystem\bin\InvontryManagmentSystem.dll.config
+C:\Users\Lenovo\Desktop\Inventory-master\InventoryManagmentSystem\bin\InvontryManagmentSystem.dll
+C:\Users\Lenovo\Desktop\Inventory-master\InventoryManagmentSystem\bin\InvontryManagmentSystem.pdb
+C:\Users\Lenovo\Desktop\Inventory-master\InventoryManagmentSystem\bin\BusinessLayer.dll
+C:\Users\Lenovo\Desktop\Inventory-master\InventoryManagmentSystem\bin\DALayer.dll
+C:\Users\Lenovo\Desktop\Inventory-master\InventoryManagmentSystem\bin\BusinessLayer.pdb
+C:\Users\Lenovo\Desktop\Inventory-master\InventoryManagmentSystem\bin\DALayer.pdb
+C:\Users\Lenovo\Desktop\Inventory-master\InventoryManagmentSystem\obj\Debug\InventoryManagmentSystem.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\Inventory-master\InventoryManagmentSystem\obj\Debug\InventoryManagmentSystem.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Inventory-master\InventoryManagmentSystem\obj\Debug\InventoryManagmentSystem.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\Inventory-master\InventoryManagmentSystem\obj\Debug\InvontryManagmentSystem.dll
+C:\Users\Lenovo\Desktop\Inventory-master\InventoryManagmentSystem\obj\Debug\InvontryManagmentSystem.pdb

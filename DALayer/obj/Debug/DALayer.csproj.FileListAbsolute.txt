@@ -1,0 +1,9 @@
+C:\Users\Lenovo\Desktop\Inventory-master\DALayer\bin\Debug\DALayer.dll
+C:\Users\Lenovo\Desktop\Inventory-master\DALayer\bin\Debug\DALayer.pdb
+C:\Users\Lenovo\Desktop\Inventory-master\DALayer\bin\Debug\BusinessLayer.dll
+C:\Users\Lenovo\Desktop\Inventory-master\DALayer\bin\Debug\BusinessLayer.pdb
+C:\Users\Lenovo\Desktop\Inventory-master\DALayer\obj\Debug\DALayer.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\Inventory-master\DALayer\obj\Debug\DALayer.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Inventory-master\DALayer\obj\Debug\DALayer.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\Inventory-master\DALayer\obj\Debug\DALayer.dll
+C:\Users\Lenovo\Desktop\Inventory-master\DALayer\obj\Debug\DALayer.pdb

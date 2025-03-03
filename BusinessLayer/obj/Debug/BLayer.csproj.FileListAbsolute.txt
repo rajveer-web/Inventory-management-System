@@ -1,0 +1,6 @@
+C:\Users\Lenovo\Desktop\Inventory-master\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\Lenovo\Desktop\Inventory-master\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\Lenovo\Desktop\Inventory-master\BusinessLayer\obj\Debug\BLayer.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\Inventory-master\BusinessLayer\obj\Debug\BLayer.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Inventory-master\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\Lenovo\Desktop\Inventory-master\BusinessLayer\obj\Debug\BusinessLayer.pdb
